@@ -1,0 +1,14 @@
+// app.component.scss
+
+:host {
+  display: block;
+  min-height: 100vh;
+  background-color: #eee;
+}
+
+mat-card {
+  margin: auto;
+  display: grid;
+  margin: 20px auto;
+  width: 80%;
+}

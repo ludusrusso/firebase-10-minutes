@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-10-minutes": {
+      "hosting": {
+        "angular10minutes": [
+          "fir-10-minutes"
+        ]
+      }
+    }
+  }
+}
